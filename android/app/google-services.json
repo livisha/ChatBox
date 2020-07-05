@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639502932243",
+    "firebase_url": "https://chatapp-5c044.firebaseio.com",
+    "project_id": "chatapp-5c044",
+    "storage_bucket": "chatapp-5c044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639502932243:android:60104a17aa8d71d9e422e6",
+        "android_client_info": {
+          "package_name": "livisha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639502932243-9a85tr8mgn9qd6ekpg2cs46qldpklvh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1mylAv4QOMXuaC6_m6MI7WoFIWkajP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639502932243-9a85tr8mgn9qd6ekpg2cs46qldpklvh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
